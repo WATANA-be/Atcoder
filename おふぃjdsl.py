@@ -1,5 +1,8 @@
-a,b,c,d,e=[]
-
+a=[]
+b=[]
+c=[]
+d=[]
+e=[]
 n = int(input())
 for i in range(n):
     a,b,c,d,e = map(int, input().split())
