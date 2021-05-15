@@ -12,6 +12,6 @@ for i in range(n):
     d.append(d)
     e.append(e)
 
-f.append(max(a),max(b),max(c),max(d),max(e))
+#f.append(max(a),max(b),max(c),max(d),max(e))
 
-print(min(f))
+#print(min(f))
